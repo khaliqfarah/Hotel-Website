@@ -110,21 +110,11 @@ The project uses Tailwind CSS for styling. To modify styles:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Lucide Icons for the beautiful icon set
-- Tailwind CSS for the utility-first CSS framework
-- React community for inspiration and resources
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/ocean-vista-resort
+Your Name - Abdulfarah567@gmail.com
+Project Link: https://github.com/khaliqfarah/Hotel-Website
 
-## Support
 
-For support, email support@oceanvista.com or raise an issue in the GitHub repository.
+
